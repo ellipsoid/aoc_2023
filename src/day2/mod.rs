@@ -1,7 +1,5 @@
 pub struct Day2;
 
-use std::collections::HashMap;
-
 impl Day2 {
     pub fn run_all() {
         let test_input = include_str!("test.txt");
